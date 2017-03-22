@@ -1,0 +1,9 @@
+Library/
+Assets/Area730/
+Assets/Plugins/
+.DS_Store
+ProjectSettings/
+obj/
+*.unity
+*.meta
+Temp/

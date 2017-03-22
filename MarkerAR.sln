@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F80B8AB1-2AAE-7FE0-AE94-C15BF1874721}") = "MarkerAR", "Assembly-CSharp.csproj", "{2B8BFBAB-9566-5713-A284-CC713BCB8BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B8BFBAB-9566-5713-A284-CC713BCB8BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B8BFBAB-9566-5713-A284-CC713BCB8BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B8BFBAB-9566-5713-A284-CC713BCB8BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B8BFBAB-9566-5713-A284-CC713BCB8BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
